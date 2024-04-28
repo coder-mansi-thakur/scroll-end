@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.relative{
+  position: relative;
+}
+
+.terms{
+  position: fixed;
+  height: 30px;
+  color: white;
+  background: black;
+  bottom: 0px;
+  width: 100%;
+
+}
